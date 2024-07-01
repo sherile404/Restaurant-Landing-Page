@@ -2,9 +2,9 @@ import React from "react";
 
 function Testimonial() {
   return (
-    <div className="items-center justify-center px-20 py-16 h-screen">
+    <div className="items-center justify-center px-8 py-24 h-screen bg-slate-100" id="testimonials">
       <div className="text-center">
-        <h2 className="text-[#FE9E0D] font-medium text-xl">Testimonial</h2>
+        <h2 className="text-[#FE9E0D] font-medium text-2xl">Testimonial</h2>
         <h1 className="text-3xl font-bold py-3">What They Are Saying</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Velit

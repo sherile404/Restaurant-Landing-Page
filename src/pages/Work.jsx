@@ -23,9 +23,9 @@ function Work() {
   ];
 
   return (
-    <div className="flex flex-col gap-16 h-screen items-center justify-center px-8">
+    <div className="flex flex-col gap-16 h-screen items-center justify-center px-8" id="work">
       <div className="text-center">
-        <h2 className="text-[#FE9E0D] text-xl font-medium">Work</h2>
+        <h2 className="text-[#FE9E0D] text-2xl font-medium">Work</h2>
         <h1 className="font-bold text-3xl py-3">How It Works</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam quam <br />

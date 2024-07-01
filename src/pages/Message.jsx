@@ -2,7 +2,7 @@ import React from "react";
 
 function Message() {
   return (
-    <div className="flex flex-col items-center justify-center py-4 gap-4">
+    <div className="flex flex-col items-center justify-center py-4 gap-4" id="contact">
       <div>
         <h1 className="font-bold text-3xl text-center">
           Have Question In Mind? <br />
